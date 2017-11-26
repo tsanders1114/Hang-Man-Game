@@ -12,6 +12,16 @@ header{
 	font-family: 'Audiowide', cursive;
 }
 
+.HangmanPicture{
+	margin:-14px auto;
+	width: 160px;
+	padding:35px;
+}
+
+.FoodPicture{
+	padding: 165px;
+}
+
 .Scores{
 	border: 10px solid red;
 	padding: 20px
