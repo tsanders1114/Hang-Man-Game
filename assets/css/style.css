@@ -1,3 +1,7 @@
+body{
+	background-color: Lightgreen;
+}
+
 header{
 	border: 10px solid red;
 	width:960px;
